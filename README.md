@@ -15,7 +15,7 @@ spreadsheet with multiple columns. So you have to _deep_ to get the specifics.
 
 Just so you can see what's going on check the code folder and look for
 
-`unpack_json.R`
+`/code/unpack_json.R`
 
 You can also check out the data folder for a quick look at a specific Denver setlist
 
