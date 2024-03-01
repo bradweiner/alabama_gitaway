@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore everything
+
+
+# But not these files...
+!.gitignore
+! /code/unpack_json.R
+! /data/
+
+
